@@ -1,0 +1,36 @@
+{
+  "name": "etvoluptate",
+  "version": "1.12.0",
+  "description": "Javascript implementations of Poly1305",
+  "main": "index.js",
+  "keywords": [
+    "chacha20",
+    "sapiente",
+    "dolor",
+    "et",
+    "crypto",
+    "stream",
+    "cipher"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeraWindler/etvoluptate.git"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  },
+  "dependencies": {
+    "asperioresquo": "^1.0.0",
+    "big-integer": "^1.6.43",
+    "etdoloremque": "^1.0.0",
+    "typedarray-to-buffer": "^3.1.5"
+  },
+  "author": "LouisaDeckow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeraWindler/etvoluptate.git/issues"
+  },
+  "homepage": "https://github.com/LeraWindler/etvoluptate.git"
+}
